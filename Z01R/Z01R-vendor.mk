@@ -547,6 +547,9 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z01R/proprietary/vendor/firmware/stereo.cnt:$(TARGET_COPY_OUT_VENDOR)/firmware/stereo.cnt \
     vendor/asus/Z01R/proprietary/vendor/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_VENDOR)/firmware/tfa98xx.cnt \
     vendor/asus/Z01R/proprietary/vendor/firmware/wigig/wigig.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/wigig/wigig.ini \
+    vendor/asus/Z01R/proprietary/vendor/lib/DataSet/arch/DIT_List.cfg:$(TARGET_COPY_OUT_VENDOR)/lib/DataSet/arch/DIT_List.cfg \
+    vendor/asus/Z01R/proprietary/vendor/lib/DataSet/ditSCidGen/msgchk.db:$(TARGET_COPY_OUT_VENDOR)/lib/DataSet/ditSCidGen/msgchk.db \
+    vendor/asus/Z01R/proprietary/vendor/lib/DataSet/ispDB/ParameterDB.db:$(TARGET_COPY_OUT_VENDOR)/lib/DataSet/ispDB/ParameterDB.db \
     vendor/asus/Z01R/proprietary/vendor/lib/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib/btaudio_offload_if.so \
     vendor/asus/Z01R/proprietary/vendor/lib/camera/com.qti.eeprom.truly_cmb433.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.eeprom.truly_cmb433.so \
     vendor/asus/Z01R/proprietary/vendor/lib/camera/com.qti.sensor.imx363.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx363.so \
