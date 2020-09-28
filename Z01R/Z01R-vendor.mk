@@ -1433,7 +1433,6 @@ PRODUCT_PACKAGES += \
     libplatformconfig \
     aptxals \
     WfdService \
-    com.qualcomm.location \
     CneApp \
     IWlanService \
     TimeService \
